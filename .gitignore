@@ -1,0 +1,10 @@
+*.pyc
+build
+dist
+*.egg-info
+*#
+.#*
+*.orig
+*.kate-swp
+.DS_Store
+*~
